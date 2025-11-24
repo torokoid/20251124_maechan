@@ -195,7 +195,7 @@ p.note { display: none; }
 <h2><span class="yellow">店内はクリスマス向けの飾り付けが賑やか</span></h2>
 <a href="20251124_011.JPG" target="_blank"><img src="20251124_011.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow"></span>銀行は故シリキット王太后陛下の喪に服しています</h2>
+<h2><span class="yellow">銀行は故シリキット王太后陛下の喪に服しています</span></h2>
 <a href="20251124_012.JPG" target="_blank"><img src="20251124_012.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251124_013.JPG" target="_blank"><img src="20251124_013.JPG" alt="サンプル画像" class="responsive-media"></a>
 
