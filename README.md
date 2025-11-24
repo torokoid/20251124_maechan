@@ -324,6 +324,8 @@ p.note { display: none; }
 <a href="20251124_074.JPG" target="_blank"><img src="20251124_074.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251124_075.JPG" target="_blank"><img src="20251124_075.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251124_076.JPG" target="_blank"><img src="20251124_076.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">中央付近の星の塊はプレアデス星団・・・昴(スバル)です。</span></h2>
 <a href="20251124_077.JPG" target="_blank"><img src="20251124_077.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 
